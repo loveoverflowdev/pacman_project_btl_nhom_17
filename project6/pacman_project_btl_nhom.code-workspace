@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../copied/Pacman-AI-UC-Berkeley/Project 2 Multiagent/multiagent/test_cases"
+		},
+		{
+			"path": "../../copied/Pacman-AI-UC-Berkeley/Project 2 Multiagent/multiagent/layouts"
+		}
+	],
+	"settings": {}
+}
